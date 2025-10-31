@@ -189,13 +189,13 @@ public class CastleTests
         makeMovesFromChessNotation(moves, game);
 
         ChessPiece? whiteKing = game.board[4][0];
-    if (whiteKing == null || whiteKing.GetType() != typeof(King))
-    {
-      Assert.Fail("White king not found");
-    }
+        if (whiteKing == null || whiteKing.GetType() != typeof(King))
+        {
+          Assert.Fail("White king not found");
+        }
 
-    BoardPrinter printer = new BoardPrinter(game.board);
-    printer.printBoard("white");
+        BoardPrinter printer = new BoardPrinter(game.board);
+        printer.printBoard("white");
 
         // King should NOT be able to castle through check
         bool canCastle = whiteKing.canMove(game.board, game, false, 6, 0);
