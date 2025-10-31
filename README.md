@@ -1,7 +1,8 @@
 # TerminalChess
 A local chess application in your terminal
 
-<img width="581" height="685" alt="image" src="https://github.com/user-attachments/assets/723cc189-d3d3-4438-8cdd-fe441c2ff877" />
+<img width="493" height="570" alt="image" src="https://github.com/user-attachments/assets/d556f56b-babe-458e-8bb3-c309162497c4" />
+
 
 
 
