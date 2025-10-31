@@ -1,2 +1,2 @@
-# Terminal_Chess
+# TerminalChess
 Local Chess game in your terminal
