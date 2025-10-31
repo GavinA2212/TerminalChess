@@ -1,0 +1,14 @@
+/home/gaugs/codingProjects/console_chess/bin/Debug/net9.0/console_chess
+/home/gaugs/codingProjects/console_chess/bin/Debug/net9.0/console_chess.deps.json
+/home/gaugs/codingProjects/console_chess/bin/Debug/net9.0/console_chess.runtimeconfig.json
+/home/gaugs/codingProjects/console_chess/bin/Debug/net9.0/console_chess.dll
+/home/gaugs/codingProjects/console_chess/bin/Debug/net9.0/console_chess.pdb
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.AssemblyInfoInputs.cache
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.AssemblyInfo.cs
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.csproj.CoreCompileInputs.cache
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.dll
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/refint/console_chess.dll
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.pdb
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/console_chess.genruntimeconfig.cache
+/home/gaugs/codingProjects/console_chess/obj/Debug/net9.0/ref/console_chess.dll
